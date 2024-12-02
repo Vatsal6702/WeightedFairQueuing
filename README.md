@@ -84,4 +84,4 @@ The console displays:
 1. Navigate to the project directory.
 2. Compile the program:
    ```bash
-java WFQSimulation
+   javac WFQSimulation.java
